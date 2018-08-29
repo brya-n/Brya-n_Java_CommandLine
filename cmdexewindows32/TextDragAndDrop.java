@@ -8,7 +8,7 @@ package cmdexewindows32;
 
 /**
  *
- * @author Bash
+* @author brya-n   https://github.com/brya-n
  */
 public class TextDragAndDrop
 {

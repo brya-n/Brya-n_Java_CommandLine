@@ -14,7 +14,7 @@ import org.apache.commons.exec.CommandLine;
 
 /**
  *
- * @author Bryan.Ash
+* @author brya-n   https://github.com/brya-n
  */
 public class DefinedTemplates
 {

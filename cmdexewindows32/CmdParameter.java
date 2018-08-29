@@ -18,7 +18,7 @@ import java.util.StringTokenizer;
 import org.apache.commons.exec.CommandLine;
 /**
  *
- * @author BAsh
+* @author brya-n   https://github.com/brya-n
  */
 public class CmdParameter 
 {

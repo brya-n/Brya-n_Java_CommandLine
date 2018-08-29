@@ -16,7 +16,7 @@ import javax.swing.event.*;
 
 /**
  *
- * @author BAsh
+* @author brya-n   https://github.com/brya-n
  */
 public class CmdListAndDnD extends JPanel implements ActionListener, ListSelectionListener
 {

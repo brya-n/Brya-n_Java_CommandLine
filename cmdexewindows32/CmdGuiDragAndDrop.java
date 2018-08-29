@@ -10,7 +10,7 @@ package cmdexewindows32;
 
 /**
  *
- * @author BAsh
+* @author brya-n   https://github.com/brya-n
  * Frame holding reference to Drag and Drop
  * List of items held
  */

@@ -20,7 +20,7 @@ import javax.swing.JTextArea;
 
 /**
  *
- * @author BAsh
+ * @author brya-n   https://github.com/brya-n
  */
 public class CmdActivityLog extends JFrame
 {

@@ -10,7 +10,7 @@ import java.util.TreeMap;
 
 /**
  *
- * @author Bryan.Ash
+* @author brya-n   https://github.com/brya-n
  */
 public class DefineProgramParameterArgument
 {
